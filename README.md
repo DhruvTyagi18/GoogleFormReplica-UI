@@ -1,6 +1,12 @@
 # GoogleFormReplica-UI
 
-The GoogleFormReplica- UI is a Windows Forms application that provides a user-friendly interface for creating and viewing form submissions, along with a stopwatch feature to track time spent on form submissions.
+The GoogleFormReplica- UI is a Windows Forms application that provides a user-friendly interface for creating and viewing form submissions, along with a stopwatch feature to track time spent on form 
+submissions.
+
+![Screenshot 2024-06-21 155744](https://github.com/DhruvTyagi18/GoogleFormReplica-UI/assets/92265404/4c775430-24f0-4759-8f03-c748ed31bf23)
+
+
+![Screenshot 2024-06-21 155848](https://github.com/DhruvTyagi18/GoogleFormReplica-UI/assets/92265404/5003d944-ede2-41b3-9a72-d8fe5eae9232)
 
 ## Features
 
@@ -47,32 +53,3 @@ The submission creation form allows users to input their details and use the sto
 ```bash
 git clone https://github.com/yourusername/GoogleFormReplica-UI.git
 
-
-Open the Project
-Open Visual Studio or your preferred IDE.
-Navigate to File > Open > Project/Solution.
-Select the GoogleFormReplica-UI folder and open the solution file.
-Build and Run the Project
-Build the solution by navigating to Build > Build Solution.
-Set Form1 or SubmissionCreationForm as the startup form.
-Start the application by clicking the Start button or pressing F5.
-Usage
-Main Form
-View Submissions: Click on the "View Submissions" button to see all submissions.
-Create New Submission: Click on the "Create New Submission" button to open the submission creation form.
-Submission Creation Form
-Fill in the required details (Name, Email, Phone Number, Github Link).
-Use the "Toggle Stopwatch" button to start or stop the stopwatch.
-Click "Submit" to save the submission.
-Contributing
-If you wish to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-This project was created with ❤️ by Dhruv Tyagi.
-csharp
-Copy code
-
-Save this content into a file named `README.md` in the directory that contains the UI components of your GoogleFor
